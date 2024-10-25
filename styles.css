@@ -1,0 +1,27 @@
+.profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  /* Encabezado */
+  h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  /* Párrafo */
+  p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  /* Enlace de redes sociales */
+  .social-link {
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  .social-link:hover {
+    text-decoration: underline;
+  }
